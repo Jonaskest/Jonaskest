@@ -10,6 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" align="center" width="100px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" align="center" width="100px"/> 
 </div> 
+
 ![snake gif](https://github.com/Jonaskest/Jonaskest/blob/output/github-contribution-grid-snake.svg)
 
 
