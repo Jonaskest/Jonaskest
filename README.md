@@ -1,6 +1,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaskest&show_icons=true&theme=dark)
 
+[![LinkedInk](https://www.linkedin.com/in/jonas-santos-16273226b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonassantosks/)
 
 
