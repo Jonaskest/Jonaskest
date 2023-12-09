@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" align="center" width="100px"/> 
 </div> 
 
-![snake gif](https://github.com/Jonaskest/Jonaskest/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Jonaskest/Jonaskest/output/github-contribution-grid-snake.svg)
 
 
 
