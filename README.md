@@ -9,7 +9,7 @@ Iniciante na carreira de tecnólogo em Análise e Desenvolvimento de Sistemas, b
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonassantosks/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198077154946/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jonnyflu?si=6fcda050758f41d1)
-
+![visitantes](https://vbr.wocr.tk/badge?page_id=Jonaskest)
 
 ## Tecnologias que estou aprendendo: 
 <div style="display: inline_block"><br>
