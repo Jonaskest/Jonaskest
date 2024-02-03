@@ -1,5 +1,5 @@
 ## Bem vindo ao meu perfil GitHub 👋
-Iniciante na carreira de tecnólogo em Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoalmente e profissionalmente nesta área que eu tanto admiro.
+Cursando Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoalmente e profissionalmente nesta área que eu tanto admiro.
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaskest&show_icons=true&theme=dark)
 #### 📫 Você pode me encontrar em:
