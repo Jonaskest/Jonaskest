@@ -19,6 +19,7 @@ Cursando Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoal
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" align="center" width="75px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="" align="center" width="75px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" align="center" width="75px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center" width="75px"/>
 </div> 
 
 
