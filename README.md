@@ -12,7 +12,7 @@ Cursando Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoal
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jonaskest&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Tecnologias que estou aprendendo: 
+## Tecnologias: 
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="" align="center" width="75px" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" align="center" width="75px" />
