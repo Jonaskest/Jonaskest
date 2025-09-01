@@ -1,26 +1,44 @@
-## Bem vindo ao meu perfil GitHub 👋
-Cursando Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoalmente e profissionalmente nesta área que eu tanto admiro.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=550091"/>
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonaskest&show_icons=true&theme=dark)
-#### 📫 Você pode me encontrar em:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/Jonaskest)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:jonaskest@hotmail.com)
-[![LinkedInk](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-santos-16273226b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonassantosks/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198077154946/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jonnyflu?si=6fcda050758f41d1)
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=8125FF&width=500&lines=Hi!%F0%9F%91%8B+I'm+Jonas;I'm+a+student+of+Analysis+and+Systems+Development" alt="Typing SVG"/>
+</div>
 
+<div align="center">
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonaskest&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonaskest&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonaskest&theme=midnight_purple&utcOffset=8) |
+| :-: | :-: | :-: |
 
 
-## Tecnologias: 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="" align="center" width="75px" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="" align="center" width="75px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="" align="center" width="75px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="" align="center" width="75px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" align="center" width="75px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" align="center" width="75px"/>
-</div> 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonaskest&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jonaskest&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
+</div>
+
+<img align="right" height="470"/>
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-2E1A47?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/jonassantosks/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-2E1A47?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jonas-santoss/)
+[![Email](https://img.shields.io/badge/Email-2E1A47?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:jonaskest@hotmail.com)
+
+</div>
+
+<div align="center" style="display: inline_block"><br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Django.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+</div>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=550091"/>
 
 
 
@@ -28,4 +46,19 @@ Cursando Análise e Desenvolvimento de Sistemas, buscando me desenvolver pessoal
 
 
 
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+ 
 
