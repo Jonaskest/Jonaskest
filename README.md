@@ -10,7 +10,7 @@
 | :-: | :-: | :-: |
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonaskest&theme=midnight_purple) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jonaskest&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonaskest&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jonaskest&theme=midnight_purple) |
 | :-: | :-: |
 </div>
 
