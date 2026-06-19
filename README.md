@@ -20,7 +20,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-2E1A47?style=for-the-badge&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/jonassantosks/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-2E1A47?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jonas-santoss/)
-[![Email](https://img.shields.io/badge/Email-2E1A47?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:jonaskest@hotmail.com)
+
 
 </div>
 
